@@ -1,3 +1,3 @@
 import streamlit as st
-st.title('Hello, Streamlit!')
-st.write('야호')
+st.title('POSTECH 2025')
+st.write('20250592 문준호')
